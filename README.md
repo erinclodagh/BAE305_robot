@@ -1,6 +1,6 @@
 ## Welcome to your 4H Robot Challenge Webpage
 
-You can use the [editor on GitHub](https://github.com/erinclodagh/BAE305_robot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is where you will learn all of the fun things regarding this challenge!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
