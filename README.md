@@ -4,24 +4,12 @@ This is where you will find fun hints regarding this challenge!
 
 
 
-### Markdown
+# **UNDER THE SEA**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    
+### _Can you make it to the finish line, or will you get eaten by a shark?_ 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+![Image](
 
 [Link](url) and ![Image](src)
 ```
