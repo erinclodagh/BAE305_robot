@@ -9,9 +9,9 @@ This is where you will find fun hints regarding this challenge!
     
 ### _Can you make it to the finish line, or will you get eaten by a shark?_ 
 
-![Image](
+![Image](https://goo.gl/images/m6bsPT)
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
